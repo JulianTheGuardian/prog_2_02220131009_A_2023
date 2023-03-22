@@ -14,4 +14,6 @@ Corte 1:
 Corte 2: 
 
    Actividad 1: https://github.com/JulianTheGuardian/P2_Activity1_ExamRemake
+   
+   Actividad 2: https://github.com/JulianTheGuardian/P2_Activity2_AtributesPerClass-
   
