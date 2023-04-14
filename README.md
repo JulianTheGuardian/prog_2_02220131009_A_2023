@@ -17,3 +17,4 @@ Corte 2:
    
    Actividad 2: https://github.com/JulianTheGuardian/P2_Activity2_AtributesPerClass-
   
+   ACtividad 3: https://github.com/JulianTheGuardian/P2_Activity3_SupermarketAndCinema
