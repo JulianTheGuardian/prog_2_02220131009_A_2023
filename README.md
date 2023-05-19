@@ -22,3 +22,5 @@ Corte 2:
 Corte 3:
 
    Actividad 1: https://github.com/JulianTheGuardian/P3_Activity1_RemakeParcial
+   
+   Actividad 2: https://github.com/JulianTheGuardian/P3Actividad2TryCatch
